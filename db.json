@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "dateJoined": "2021-07-01T13:45:30.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "dateJoined": "2021-08-11T09:20:15.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "dateJoined": "2021-09-15T07:30:45.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "dateJoined": "2021-10-20T11:00:00.000Z"
+    }
+  ],
+  "reports": [
+    {
+      "title": "React Usage in May",
+      "content": "A report on React usage for May.",
+      "userId": 1,
+      "dateCreated": "2023-05-08T12:25:13.979Z",
+      "id": 1
+    },
+    {
+      "title": "Vue.js Trends in May",
+      "content": "A report on Vue.js trends for May.",
+      "userId": 2,
+      "dateCreated": "2023-05-08T13:25:13.979Z",
+      "id": 2
+    },
+    {
+      "title": "July Report on Angular",
+      "content": "Angular development trends for July.",
+      "userId": 3,
+      "dateCreated": "2023-07-15T10:34:14.722Z",
+      "id": 3
+    },
+    {
+      "title": "July Backend Technologies",
+      "content": "Backend technologies review for July.",
+      "userId": 4,
+      "dateCreated": "2023-07-15T11:34:14.722Z",
+      "id": 4
+    },
+    {
+      "title": "July Frontend Frameworks",
+      "content": "Comparison of frontend frameworks in July.",
+      "userId": 1,
+      "dateCreated": "2023-07-15T12:34:14.722Z",
+      "id": 5
+    },
+    {
+      "title": "October Database Performance",
+      "content": "Database performance analysis for October.",
+      "userId": 2,
+      "dateCreated": "2023-10-22T14:55:32.000Z",
+      "id": 6
+    },
+    {
+      "title": "November Security Update",
+      "content": "Latest security updates in IT for November.",
+      "userId": 3,
+      "dateCreated": "2023-11-01T11:45:00.000Z",
+      "id": 7
+    }
+  ]
+}
